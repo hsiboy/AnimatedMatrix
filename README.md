@@ -1,3 +1,3 @@
 # AnimatedMatrix
 
-![workflow status](https://github.com/hsiboy/AnimatedMatrix/actions/workflows/<YML_FILE>/badge.svg)
+![workflow status](https://github.com/hsiboy/AnimatedMatrix/actions/workflows/arduino.yml/badge.svg)
